@@ -1,4 +1,4 @@
-# Laravel 4.1 Car Rental Site
+## Laravel 4.1 Car Rental Site
 
 This Car Rental Site is a full functional application with Laravel 4.1.
 
@@ -27,10 +27,10 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
-### Contributing To Laravel
+## Contributing To Laravel
 
 **All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
 
-### License
+## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
